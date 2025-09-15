@@ -1,10 +1,8 @@
-
 # progress
-
-**self typing progress tracker**
-
+*typing skills progress tracker*
 ![progress screenshot](./progress.png)
-
+# typing speed
+000 wpm
 # attribution
-course's site: [TypingClub](https://www.typingclub.com)
-
+course: [TypingClub](https://www.typingclub.com)
+typing speed measurement: [monkeytype](https://monkeytype.com/)
