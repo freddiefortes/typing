@@ -4,4 +4,4 @@
 000 wpm
 # attribution
 - course: [TypingClub](https://www.typingclub.com)
-- typing speed measurement: [monkeytype](https://monkeytype.com/)
+- typing speed: [monkeytype](https://monkeytype.com/)
