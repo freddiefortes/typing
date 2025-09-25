@@ -1,4 +1,5 @@
 # typing skills progress tracker
+![shift key](./shift_key.png)
 ![tricky words 1](./tricky_words_1.png)
 ![basic level 1](./basic_level_1.png)
 ![bottom row](./bottom_row.png)
