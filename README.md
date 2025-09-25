@@ -1,12 +1,27 @@
-# typing skills progress tracker
-![shift key](./shift_key.png)
-![tricky words 1](./tricky_words_1.png)
-![basic level 1](./basic_level_1.png)
-![bottom row](./bottom_row.png)
-![top row](./top_row.png)
-![home row](./home_row.png)
 # typing speed
+
 000 wpm
+
+# typing skills progress tracker
+
+- [x] Home Row
+- [x] Top Row
+- [x] Bottom Row
+- [x] Basic Level 1
+- [x] Tricky Words 1
+- [] Shift Key
+- [] Common Patterns 1
+- [] Basic Level 2
+- [] Tricky Words 2
+- [] Numbers
+- [] Common Patterns 2
+- [] Basic Level 3
+- [] Symbols
+- [] Common Patterns 3
+- [] Advanced Level 1
+- [] More Symbols
+- [] Tricky Words 3
+
 # attribution
 - course: [TypingClub](https://www.typingclub.com)
 - typing speed: [monkeytype](https://monkeytype.com/)
