@@ -1,6 +1,6 @@
 # typing speed
 
-000 wpm
+000 wpm # test duration of 10 minutes, with punctuation and numbers.
 
 # typing skills progress tracker
 
