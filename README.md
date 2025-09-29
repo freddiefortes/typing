@@ -1,6 +1,6 @@
 # typing speed
 
-000 wpm # test duration of 10 minutes, with punctuation and numbers.
+000 wpm # 100% accuracy; 10 min duration; with punctuation and numbers.
 
 # typing skills progress tracker
 
@@ -9,8 +9,8 @@
 - [x] Bottom Row
 - [x] Basic Level 1
 - [x] Tricky Words 1
-- [] Shift Key
-- [] Common Patterns 1
+- [x] Shift Key
+- [x] Common Patterns 1
 - [] Basic Level 2
 - [] Tricky Words 2
 - [] Numbers
