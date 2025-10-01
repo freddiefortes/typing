@@ -12,8 +12,8 @@
 - [x] Shift Key
 - [x] Common Patterns 1
 - [x] Basic Level 2
-- [] Tricky Words 2
-- [] Numbers
+- [x] Tricky Words 2
+- [x] Numbers
 - [] Common Patterns 2
 - [] Basic Level 3
 - [] Symbols
