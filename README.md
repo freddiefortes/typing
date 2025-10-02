@@ -14,7 +14,7 @@
 - [x] Basic Level 2
 - [x] Tricky Words 2
 - [x] Numbers
-- [] Common Patterns 2
+- [x] Common Patterns 2
 - [] Basic Level 3
 - [] Symbols
 - [] Common Patterns 3
