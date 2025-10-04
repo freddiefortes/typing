@@ -16,8 +16,8 @@
 - [x] Numbers
 - [x] Common Patterns 2
 - [x] Basic Level 3
-- [] Symbols
-- [] Common Patterns 3
+- [x] Symbols
+- [x] Common Patterns 3
 - [] Advanced Level 1
 - [] More Symbols
 - [] Tricky Words 3
