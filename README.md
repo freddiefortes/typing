@@ -1,6 +1,6 @@
 # typing speed
 
-000 wpm # 100% accuracy; 10 min duration; with punctuation and numbers.
+000 wpm
 
 # typing skills progress tracker
 
