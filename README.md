@@ -18,10 +18,21 @@
 - [x] Basic Level 3
 - [x] Symbols
 - [x] Common Patterns 3
-- [] Advanced Level 1
-- [] More Symbols
-- [] Tricky Words 3
+- [x] Advanced Level 1
+- [x] More Symbols
+- [x] Tricky Words 3
+
+# accuracy, cadence, consistency, minimum effort, and muscle relaxation
+
+- [] 120 bpm
+- [] 180 bpm
+- [] 240 bpm
+- [] 300 bpm
+- [] 360 bpm
+- [] 420 bpm
+- [] 480 bpm
 
 # attribution
-- course: [TypingClub](https://www.typingclub.com)
-- typing speed: [monkeytype](https://monkeytype.com/)
+- great full "learn how to type" program: [TypingClub](https://www.typingclub.com)
+- typing speed measurement: [monkeytype](https://monkeytype.com/)
+- metronomes to practice accuracy, cadence, consistency, minimum effort, and muscle relaxation: [DrumsetFundamentals](https://www.youtube.com/@DrumsetFundamentals)
