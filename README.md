@@ -22,11 +22,11 @@
 - [x] More Symbols
 - [x] Tricky Words 3
 
-# accuracy, cadence, consistency, minimum effort, and muscle relaxation
+# accuracy, cadence, minimum effort, and musculature relaxation
 
-- [] 120 bpm
-- [] 180 bpm
-- [] 240 bpm
+- [x] 120 bpm
+- [x] 180 bpm
+- [x] 240 bpm
 - [] 300 bpm
 - [] 360 bpm
 - [] 420 bpm
