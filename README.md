@@ -1,8 +1,7 @@
-# typing speed
-
-000 wpm
 
 # typing skills progress tracker
+
+## TypingClub
 
 - [x] Home Row
 - [x] Top Row
@@ -22,11 +21,23 @@
 - [x] More Symbols
 - [x] Tricky Words 3
 
-# accuracy, cadence, minimum effort, and musculature relaxation
+## monkeytype
+
+### cadence, minimum effort, and musculature relaxation
 
 - [x] 120 bpm
 - [x] 180 bpm
 - [x] 240 bpm
+- [x] 300 bpm
+- [x] 360 bpm
+- [x] 420 bpm
+- [] 480 bpm
+
+### 100% accuracy
+
+- [] 120 bpm
+- [] 180 bpm
+- [] 240 bpm
 - [] 300 bpm
 - [] 360 bpm
 - [] 420 bpm
@@ -35,4 +46,4 @@
 # attribution
 - great full "learn how to type" program: [TypingClub](https://www.typingclub.com)
 - typing speed measurement: [monkeytype](https://monkeytype.com/)
-- metronomes to practice accuracy, cadence, consistency, minimum effort, and muscle relaxation: [DrumsetFundamentals](https://www.youtube.com/@DrumsetFundamentals)
+- metronome: [DrumsetFundamentals](https://www.youtube.com/@DrumsetFundamentals)
