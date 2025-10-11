@@ -35,8 +35,8 @@
 
 ### 100% accuracy
 
-- [] 120 bpm
-- [] 180 bpm
+- [x] 120 bpm
+- [x] 180 bpm
 - [] 240 bpm
 - [] 300 bpm
 - [] 360 bpm
