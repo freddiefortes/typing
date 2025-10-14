@@ -23,7 +23,8 @@
 
 ## monkeytype
 
-### cadence, minimum effort, and musculature relaxation
+### cadence, minimum effort
+
 *(120 sec with punctuation and numbers)*
 
 - [x] 120 bpm
@@ -35,6 +36,7 @@
 - [x] 480 bpm
 
 ### 100% accuracy
+
 *(120 sec with punctuation and numbers)*
 
 - [x] 120 bpm
@@ -46,6 +48,7 @@
 - [] 480 bpm
 
 # attribution
-- great full "learn how to type" program: [TypingClub](https://www.typingclub.com)
-- typing speed measurement: [monkeytype](https://monkeytype.com/)
-- metronome: [DrumsetFundamentals](https://www.youtube.com/@DrumsetFundamentals)
+
+- great program on proper typing technique: [TypingClub](https://www.typingclub.com)
+- speed measurement and great for longer practice sessions: [monkeytype](https://monkeytype.com/)
+- metronomes: [DrumsetFundamentals](https://www.youtube.com/@DrumsetFundamentals)
