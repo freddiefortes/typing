@@ -44,7 +44,7 @@
 - [x] 240 bpm
 - [x] 300 bpm
 - [x] 360 bpm
-- [] 420 bpm
+- [x] 420 bpm
 - [] 480 bpm
 
 # attribution
