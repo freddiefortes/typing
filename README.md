@@ -23,7 +23,7 @@
 
 ## monkeytype
 
-### cadence, minimum effort
+### cadence, minimum effort, accuracy
 
 *(120 sec with punctuation and numbers)*
 
@@ -34,18 +34,8 @@
 - [x] 360 bpm
 - [x] 420 bpm
 - [x] 480 bpm
-
-### 100% accuracy
-
-*(120 sec with punctuation and numbers)*
-
-- [x] 120 bpm
-- [x] 180 bpm
-- [x] 240 bpm
-- [x] 300 bpm
-- [x] 360 bpm
-- [x] 420 bpm
-- [] 480 bpm
+- [x] 560 bpm
+- [] 600 bpm
 
 # attribution
 
