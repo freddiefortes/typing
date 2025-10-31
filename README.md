@@ -35,6 +35,7 @@
 
 - [x] 15 sec
 - [x] 30 sec
+- [] 60 sec
 
 # attribution
 
