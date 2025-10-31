@@ -1,29 +1,29 @@
 
 # typing skills progress tracker
 
-**typing speed (at 100% accuracy):**
+**current top typing speed (at 100% accuracy):**
 - **108 wpm in 15 sec.**
 - **96 wpm in 60 sec.**
 
 ## TypingClub
 
-- [x] Home Row
-- [x] Top Row
-- [x] Bottom Row
-- [x] Basic Level 1
-- [x] Tricky Words 1
-- [x] Shift Key
-- [x] Common Patterns 1
-- [x] Basic Level 2
-- [x] Tricky Words 2
-- [x] Numbers
-- [x] Common Patterns 2
-- [x] Basic Level 3
-- [x] Symbols
-- [x] Common Patterns 3
-- [x] Advanced Level 1
-- [x] More Symbols
-- [x] Tricky Words 3
+`Home Row`
+`Top Row`
+`Bottom Row`
+`Basic Level 1`
+`Tricky Words 1`
+`Shift Key`
+`Common Patterns 1`
+`Basic Level 2`
+`Tricky Words 2`
+`Numbers`
+`Common Patterns 2`
+`Basic Level 3`
+`Symbols`
+`Common Patterns 3`
+`Advanced Level 1`
+`More Symbols`
+`Tricky Words 3`
 
 ## monkeytype
 
