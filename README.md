@@ -3,7 +3,7 @@
 
 **typing speed (at 100% accuracy):**
 - **108 wpm in 15 sec.**
-- **95 wpm in 60 sec.**
+- **96 wpm in 60 sec.**
 
 ## TypingClub
 
