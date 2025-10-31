@@ -1,7 +1,9 @@
 
 # typing skills progress tracker
 
-**typing speed: 100 wpm (15 sec; 100% accuracy)**
+**typing speed: 108 wpm (15 sec; 100% accuracy)**
+
+**typing speed: 95 wpm (60 sec; 100% accuracy)**
 
 ## TypingClub
 
@@ -32,7 +34,7 @@
 *(bpm: 120, 180, 240, 300, 360, 420, 480, 560, 600)*
 
 - [x] 15 sec
-- [] 30 sec
+- [x] 30 sec
 
 # attribution
 
