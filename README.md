@@ -1,7 +1,7 @@
 
 # typing skills progress tracker
 
-**typing speed (for 15 sec. at 100% accuracy): 108 wpm.**
+**typing speed: 110 wpm** *(15 sec., 100% accuracy)*
 
 ## TypingClub
 
